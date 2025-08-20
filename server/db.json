@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "text": "Learn about full-stack development",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "text": "Build a React frontend",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "text": "Build an Express backend",
+    "completed": true
+  }
+]
